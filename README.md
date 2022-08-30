@@ -29,8 +29,8 @@ Patika.dev kapsamında Veri Yapıları ve Algoritmaları patikası için hazırl
 | 2|  |  |  |4 |  |6 |  |  |  |8 |  | 
 
 
-**1 sayısı 2'den küçük olduğu için sola, 4 sayısı büyük olduğu için sağa eklendik**
-**6 sayısı 7'den küçük olduğu için sola, 8 sayısı büyük olduğu için sağa eklendik**
+**1 sayısı 2'den küçük olduğu için sola eklendik**
+**9 sayısı 8'den büyük olduğu için sağa eklendik**
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |--|--|--|--|--|- |- |- |- |- |- |- |- |- |- |
 |  |  |  |  |  |  |  | 5|  |  |  |  |  |  |  |
@@ -41,3 +41,17 @@ Patika.dev kapsamında Veri Yapıları ve Algoritmaları patikası için hazırl
 |  |  | 2|  |  |  |4 |  |6 |  |  |  |8 |  |  |
 |  | /|  |  |  |  |  |  |  |  |  |  |  |\ |  |
 | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |9 |
+
+**0 sayısı 1'den küçük olduğu için sola eklendik**
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|--|--|--|--|--|--|--|- |- |- |- |- |- |- |- |- |- |
+|  |  |  |  |  |  |  |  |  | 5|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | /|  |\ |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |/ |  |  |  |\ |  |  |  |  |  |
+|  |  |  |  |  |  | 3|  |  |  |  |  |7 |  |  |  |  |
+|  |  |  |  |  | /|  |\ |  |  |  |/ |  |\ |  |  |  |
+|  |  |  |  | 2|  |  |  |4 |  |6 |  |  |  |8 |  |  |
+|  |  |  | /|  |  |  |  |  |  |  |  |  |  |  |\ |  |
+|  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |9 |
+|  | /|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
